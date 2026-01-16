@@ -1,0 +1,42 @@
+[
+  {
+    "category_id": 1,
+    "name": "Men",
+    "slug": "men",
+    "image_url": "https://i.ibb.co/example/men.jpg",
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "category_id": 2,
+    "name": "Women",
+    "slug": "women",
+    "image_url": "https://i.ibb.co/example/women.jpg",
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "category_id": 3,
+    "name": "Accessories",
+    "slug": "accessories",
+    "image_url": "https://i.ibb.co/example/access.jpg",
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "category_id": 4,
+    "name": "Footwear",
+    "slug": "footwear",
+    "image_url": "https://i.ibb.co/example/shoes.jpg",
+    "level": 1,
+    "parent_id": null
+  },
+  {
+    "category_id": 5,
+    "name": "New Arrivals",
+    "slug": "new-arrivals",
+    "image_url": "https://i.ibb.co/example/new.jpg",
+    "level": 1,
+    "parent_id": null
+  }
+]

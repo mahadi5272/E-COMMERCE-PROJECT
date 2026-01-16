@@ -1,0 +1,47 @@
+[
+  {
+    "product_id": 1,
+    "name": "Classic White T-Shirt",
+    "slug": "classic-white-tshirt",
+    "base_price": 1200.00,
+    "brand": "Zayne Fashion",
+    "image_url": "https://i.ibb.co/example/white-tshirt.jpg",
+    "status": "on_sale"
+  },
+  {
+    "product_id": 2,
+    "name": "Slim Fit Denim Jeans",
+    "slug": "slim-fit-denim",
+    "base_price": 2500.00,
+    "brand": "Zayne Fashion",
+    "image_url": "https://i.ibb.co/example/denim.jpg",
+    "status": "regular"
+  },
+  {
+    "product_id": 3,
+    "name": "Premium Polo Shirt",
+    "slug": "premium-polo",
+    "base_price": 1800.00,
+    "brand": "Zayne Fashion",
+    "image_url": "https://i.ibb.co/example/polo.jpg",
+    "status": "on_sale"
+  },
+  {
+    "product_id": 4,
+    "name": "Leather Casual Shoes",
+    "slug": "leather-casual-shoes",
+    "base_price": 3500.00,
+    "brand": "Zayne Fashion",
+    "image_url": "https://i.ibb.co/example/shoes.jpg",
+    "status": "regular"
+  },
+  {
+    "product_id": 5,
+    "name": "Cotton Summer Panjabi",
+    "slug": "cotton-summer-panjabi",
+    "base_price": 2200.00,
+    "brand": "Zayne Fashion",
+    "image_url": "https://i.ibb.co/example/panjabi.jpg",
+    "status": "out_of_stock"
+  }
+]
